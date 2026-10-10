@@ -1,3 +1,0 @@
-set_property(TARGET "SFML::Graphics"
-  PROPERTY IMPORTED_CXX_MODULES_DEBUG
-)

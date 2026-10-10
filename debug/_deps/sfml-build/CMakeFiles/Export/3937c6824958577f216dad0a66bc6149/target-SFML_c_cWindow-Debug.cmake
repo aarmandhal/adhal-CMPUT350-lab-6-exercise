@@ -1,3 +1,0 @@
-set_property(TARGET "SFML::Window"
-  PROPERTY IMPORTED_CXX_MODULES_DEBUG
-)
