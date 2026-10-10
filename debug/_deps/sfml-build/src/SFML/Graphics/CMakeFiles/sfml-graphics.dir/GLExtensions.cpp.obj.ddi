@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "_deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\GLExtensions.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

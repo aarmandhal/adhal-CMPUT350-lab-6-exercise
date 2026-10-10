@@ -1,1 +1,17 @@
-Answer written questions here:
+1. In our doubling-iteration scheme, why do we start from a low number?
+
+Answer: A low iteration count renders very quickly, so the user sees a first frame right away and the view stays responsive.
+Since every pixel's mandelbrotSmooth call must finish before the next frame, a high count from the start would stall the
+display, while doubling lets us refine the image progressively and stop as soon as the view changes.
+
+2. Propose a way to increase efficiency of rendering for high iteration counts using multiple computers/cores/threads.
+
+Answer: Since each pixel is independent, one coordinator can split the image into rows or tiles and delegate them to worker
+threads/computers, then wait for the results and assemble them into the frame. This gives close to a linear speedup with the
+number of workers, and handing out small tiles dynamically balances the load because pixels inside the set take far longer.
+
+3. What would happen if we sampled the center of 4 subpixels per pixel and averaged the colors?
+
+Answer: Visually, averaging smooths the jaggies at the set boundary and turns the speckled noise into a more stable, softer
+gradient (anti-aliasing). Performance-wise, it costs about 4x as many mandelbrotSmooth calls per frame, so rendering is
+roughly 4x slower unless we add more parallelism or lower the iteration count.

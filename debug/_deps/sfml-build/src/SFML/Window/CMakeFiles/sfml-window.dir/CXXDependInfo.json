@@ -1,0 +1,169 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-build/src/SFML/Window",
+	"dir-cur-src" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window",
+	"dir-top-bld" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug",
+	"dir-top-src" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise",
+	"exports" : 
+	[
+		{
+			"cxx-module-info-dir" : "",
+			"destination" : "lib/cmake/SFML",
+			"export-name" : "SFML::Window",
+			"export-prefix" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-build/CMakeFiles/Export/3937c6824958577f216dad0a66bc6149",
+			"filesystem-export-name" : "SFML_c_cWindow",
+			"install" : true,
+			"namespace" : ""
+		}
+	],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"_deps\\sfml-src\\src",
+		"_deps\\sfml-src\\include",
+		"_deps\\sfml-src\\extlibs\\headers\\glad\\include",
+		"_deps\\sfml-src\\extlibs\\headers\\vulkan"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir",
+	"sources" : 
+	{
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Clipboard.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Context.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Cursor.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/GlContext.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/GlResource.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Joystick.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Keyboard.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Mouse.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Sensor.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/SensorManager.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Touch.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/VideoMode.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Vulkan.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Win32/InputImpl.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Win32/SensorImpl.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Win32/VideoModeImpl.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Win32/VulkanImplWin32.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Win32/WglContext.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Win32/WindowImplWin32.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/Window.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/WindowBase.cpp"
+		},
+		"_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp"
+		}
+	}
+}

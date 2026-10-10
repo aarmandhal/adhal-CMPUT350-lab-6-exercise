@@ -1,0 +1,53 @@
+ninja_dyndep_version = 1.0
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj: dyndep
+
+build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj: dyndep
+

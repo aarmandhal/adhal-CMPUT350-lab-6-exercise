@@ -1,0 +1,42 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-build/src/SFML/Main",
+	"dir-cur-src" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Main",
+	"dir-top-bld" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug",
+	"dir-top-src" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise",
+	"exports" : 
+	[
+		{
+			"cxx-module-info-dir" : "",
+			"destination" : "lib/cmake/SFML",
+			"export-name" : "SFML::Main",
+			"export-prefix" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-build/CMakeFiles/Export/3937c6824958577f216dad0a66bc6149",
+			"filesystem-export-name" : "SFML_c_cMain",
+			"install" : true,
+			"namespace" : ""
+		}
+	],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"_deps\\sfml-src\\include",
+		"_deps\\sfml-src\\src"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir",
+	"sources" : 
+	{
+		"_deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/Main/MainWin32.cpp"
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-build/src/SFML/System",
+	"dir-cur-src" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System",
+	"dir-top-bld" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug",
+	"dir-top-src" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise",
+	"exports" : 
+	[
+		{
+			"cxx-module-info-dir" : "",
+			"destination" : "lib/cmake/SFML",
+			"export-name" : "SFML::System",
+			"export-prefix" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-build/CMakeFiles/Export/3937c6824958577f216dad0a66bc6149",
+			"filesystem-export-name" : "SFML_c_cSystem",
+			"install" : true,
+			"namespace" : ""
+		}
+	],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"_deps\\sfml-src\\include",
+		"_deps\\sfml-src\\src",
+		"_deps\\sfml-src\\extlibs\\headers\\cpp-unicodelib"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir",
+	"sources" : 
+	{
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/Clock.cpp"
+		},
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/Err.cpp"
+		},
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/FileInputStream.cpp"
+		},
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp"
+		},
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/Sleep.cpp"
+		},
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/String.cpp"
+		},
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/TimeoutWithPredicate.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/TimeoutWithPredicate.cpp"
+		},
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Utils.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/Utils.cpp"
+		},
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Version.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/Version.cpp"
+		},
+		"_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/aarma/OneDrive/Desktop/CMPUT350/adhal-CMPUT350-lab-6-exercise/debug/_deps/sfml-src/src/SFML/System/Win32/SleepImpl.cpp"
+		}
+	}
+}

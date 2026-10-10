@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "_deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Win32\\SleepImpl.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

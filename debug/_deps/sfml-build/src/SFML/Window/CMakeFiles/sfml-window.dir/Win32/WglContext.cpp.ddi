@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

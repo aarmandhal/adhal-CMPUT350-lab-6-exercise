@@ -1,0 +1,3 @@
+set_property(TARGET "SFML::System"
+  PROPERTY IMPORTED_CXX_MODULES_DEBUG
+)
